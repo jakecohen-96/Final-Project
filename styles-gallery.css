@@ -25,7 +25,12 @@ img {
 }
 
 footer {
-    font-size: 35px;
-    color: white;
+    background-color: #fff6f6;
+    font-size: 25px;
+    color: black;
     text-align: center;
+    padding: 6px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
