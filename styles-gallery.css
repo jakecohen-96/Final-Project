@@ -1,0 +1,19 @@
+body {
+    background-color: #fd1e1efc;
+    color: white;
+}
+
+header {
+    font-family: Helvetica;
+    font-size: 35px;
+    border-bottom: 5px solid white;
+    width: 200px;
+}
+
+.containter {
+    max-width: 100%;
+}
+
+img {
+    
+}

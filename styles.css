@@ -36,10 +36,11 @@ header {
     padding: 20px;
 }
 
-.wrap-first img {
+#first-app {
    max-width: 100%;
    display: flex;
    flex-wrap: wrap;
+   justify-content: center;
 }
 
 .wrap-second {
@@ -50,16 +51,18 @@ header {
 }
 
 #golden-boot {
-    max-width: 50%;
+    max-width: 100%;
     height: auto;
-    align-items: center;
+    justify-content: center;
+    float: inline-end;
 }
 
 #apperance-top {
-    max-width: 50%;
+    max-width: 100%;
     height: auto;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 #latter-career {
