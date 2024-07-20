@@ -7,7 +7,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-}
+  }
 
 header {
     font-family: Helvetica;
@@ -23,6 +23,8 @@ img {
     height: 300px;
     margin: 10px;
 }
+
+
 
 p {
     flex: 1;
